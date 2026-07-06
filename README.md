@@ -1,4 +1,4 @@
-## Hi there 👋
+#Print("Hello World👋")
 
 <!--
 **Count-Pro68/Count-Pro68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
