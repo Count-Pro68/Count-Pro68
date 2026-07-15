@@ -1,6 +1,6 @@
 ## Print("Hello World👋")
 
-##mira@imene:~$ cat Imene.txt
+## mira@imene:~$ cat Imene.txt
 
 Hello, my name is Imène, I am passionate about science and more specifically about DATA Sciences
 
