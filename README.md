@@ -33,7 +33,7 @@ Training in DATA Science would be a major goal for me.
 
 >> print(futur)
 
-## 📎 >> mira@imene:~$ cat Contacts.txt
+## 📎 mira@imene:~$ cat Contacts.txt
 
 mail : mira.imene.pro.68@gmail.com
 
