@@ -22,12 +22,11 @@ mira@imene:~$ cat Projects.txt
 
 Training in DATA Science would be a major goal for me. 
 
-higher_school = "Master ou engineer"
-future = higher_school
+>> higher_school = "Master or engineer"
 
-print(futur)
+>> futur = higher_school
 
-;)
+>> print(futur)
 
 ## 🔗​ Contact
 
