@@ -16,9 +16,7 @@ It motivated and encouraged me to continue on this path.
 
 Currently, I am a student in the B.U.T Networks and Telecommunications program, specializing in System & Cloud Development.
 
-## 📈​ Projects
-
-mira@imene:~$ cat Projects.txt
+## mira@imene:~$ cat Projects.txt
 
 Training in DATA Science would be a major goal for me. 
 
