@@ -1,14 +1,15 @@
-## Print("Hello World👋")
+## >> Print("Hello World👋")
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## mira@imene:~$ cat Imene.txt
+## 🌺​ >> mira@imene:~$ cat Imene.txt
 
 Hello, my name is Imène, I am passionate about science and more specifically about DATA Sciences
 
-## mira@imene:~$ cat Skills.txt
+## ⚕️ >> mira@imene:~$ cat Skills.txt
 
 I use Python, MySQL, Nginx, MariaDB, Docker, FastAPI, and many other tools that allow me to secure, virtualize, and automate a network infrastructure.
 
-## mira@imene:~$ cat Formations.txt
+## ⚕️ >> mira@imene:~$ cat Formations.txt
 
 I completed a professional baccalaureate in "Digital Systems" with the option "Computer Networks and Communicating Systems" 
 
@@ -16,7 +17,9 @@ It motivated and encouraged me to continue on this path.
 
 Currently, I am a student in the B.U.T Networks and Telecommunications program, specializing in System & Cloud Development.
 
-## mira@imene:~$ cat Projects.txt
+## ⚕️ >> ​mira@imene:~$ cat professional_career.txt​
+
+## ⚕️ >> mira@imene:~$ cat Projects.txt
 
 Training in DATA Science would be a major goal for me. 
 
@@ -26,7 +29,7 @@ Training in DATA Science would be a major goal for me.
 
 >> print(futur)
 
-## mira@imene:~$ cat Contacts.txt
+## ⚕️ >> mira@imene:~$ cat Contacts.txt
 
 mail : mira.imene.pro.68@gmail.com
 
