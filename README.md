@@ -17,7 +17,7 @@ It motivated and encouraged me to continue on this path.
 
 Currently, I am a student in the B.U.T Networks and Telecommunications program, specializing in System & Cloud Development.
 
-## ⚕️ ​mira@imene:~$ cat professional_career.txt​
+## ⚕️ ​mira@imene:~$ cat Professional_career.txt​
 
 I am an apprentice in the IT department of the Civil Hospitals of Colmar.
 
